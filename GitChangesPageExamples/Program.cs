@@ -21,10 +21,11 @@ namespace GitChangesPageExamples
             Console.WriteLine("AAAAA");
             Console.WriteLine("BBBBB");
             Console.WriteLine("CCCCC");
-            Console.WriteLine("DDDDD");
-            Console.WriteLine("EEEEE");
-            Console.WriteLine("FFFFF");
+            Console.WriteLine("DdDDDD");
+            Console.WriteLine("EEEEfE");
+            Console.WriteLine("FFFHFFF");
             Console.WriteLine("GGGGG");
+
         }
     }
 }
