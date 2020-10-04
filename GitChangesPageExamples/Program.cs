@@ -23,8 +23,8 @@ namespace GitChangesPageExamples
             Console.WriteLine("CCCCC");
             Console.WriteLine("DdDDDD");
             Console.WriteLine("EEEEfE");
-            Console.WriteLine("FFFHFFF");
-            Console.WriteLine("GGGGG");
+            Console.WriteLine("FFFdFFF");
+            Console.WriteLine("GGGGs");
 
         }
     }
