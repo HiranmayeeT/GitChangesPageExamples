@@ -24,7 +24,7 @@ namespace GitChangesPageExamples
             Console.WriteLine("dDdeDDDD");
             Console.WriteLine("EEEEfE");
             Console.WriteLine("FFFdFFF");
-            Console.WriteLine("GGGGf");
+            Console.WriteLine("GGGsf");
 
         }
     }
